@@ -4,6 +4,8 @@ This project is a Go-powered REST API for managing event bookings. It allows use
 
 ## Project Description
 
+![Project Description](./project_description.png)
+
 The Event Booking API provides the following endpoints:
 
 ### Event Endpoints
